@@ -1,2 +1,2 @@
 # CSS_Price_Panel
-A price panel made with HTML and CSS
+A sample price panel made with HTML and CSS
